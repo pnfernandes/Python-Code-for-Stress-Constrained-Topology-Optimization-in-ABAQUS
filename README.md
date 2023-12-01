@@ -22,4 +22,5 @@ You can share, copy and modify this dataset so long as you give appropriate cred
 
 # References:
 [1] - P. Fernandes et al., (2023) Stress constrained topology optimization for commercial software: a Python implementation for ABAQUS®, MDPI - Applied Sciences.
+
 [2] - P. Fernandes et al., (2023) Python Code for Stress Constrained Topology Optimization in ABAQUS, Mendeley Data, V1, doi: 10.17632/d347zjsk27.1
